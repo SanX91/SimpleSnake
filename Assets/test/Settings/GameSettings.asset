@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d115dce102286054c84c83da8d1077a5, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  gridSystem: {fileID: 8202298215375059030, guid: 9e21889674188a94fa75523f02ef95a3,
+    type: 3}
+  snake: {fileID: 7378688091996234286, guid: a020570d64d7b4b49b73dee06212755d, type: 3}
+  collectibleGenerator: {fileID: 4246168465896527566, guid: e503ef582f5cb734d89c310920d15943,
+    type: 3}
